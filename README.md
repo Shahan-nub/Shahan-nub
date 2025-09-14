@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a 2nd year CSE student at KIIT, Bhubaneswar.<br>I'm currently exploring and learning AI&ML.<br>Feel free to ping me if you want to collab on some web-development project.<br>
+Hi! I'm a 3nd year CSE student at KIIT, Bhubaneswar.<br>I'm currently exploring and learning AI&ML.<br>Feel free to ping me if you want to collab on some web-development project.<br>
 
 
 ## 🌐 Socials:
